@@ -1,0 +1,13 @@
+.product-form {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-form mat-form-field {
+    width: 30%;
+}
+
+.product-table {
+    margin-top: 20px;
+}
